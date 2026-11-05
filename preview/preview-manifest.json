@@ -1,0 +1,30 @@
+{
+  "label": "preview, not a master.",
+  "preview_path": "preview/deep-drum-and-bass-chords-simple-synth-preview.mp3",
+  "preview_sha256": "459b3b5174ba0721f6c3c6642d4cd6bc3f5115a94067a5a8fe66fc6235b1f5f8",
+  "source_midi_path": "midi/z3401-deep-drum-and-bass-chords-opening/z3401-deep-drum-and-bass-chords-opening-combined.mid",
+  "source_midi_sha256": "488f56b08a6ce9b545efad0d63805de589cb73981118e36c8f0397ed7e5334cf",
+  "renderer": "release-simple-synth 1.0.0",
+  "renderer_configuration": {
+    "sample_rate": 44100,
+    "source_tracks": [
+      "chord_pulse",
+      "counter_texture",
+      "drums",
+      "principal_motif",
+      "sub_bass",
+      "vocal_like_synth"
+    ],
+    "processing": "Per-voice synthesis and envelopes; summed samples are clamped to +/-0.95, converted to 16-bit stereo PCM and encoded to 192 kb/s MP3."
+  },
+  "selection": {
+    "study": "z3401",
+    "start_seconds": 0,
+    "end_seconds": 44.138
+  },
+  "measurement": {
+    "sample_peak": 0.114421,
+    "not_lufs_or_true_peak": true
+  },
+  "limitations": "Automated generation and decode checks only. Nobody auditioned this simple-synthesis preview. It is not a finished-production sound or master."
+}

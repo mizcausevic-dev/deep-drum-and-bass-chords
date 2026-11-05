@@ -1,0 +1,26 @@
+{
+  "title": "Deep Drum and Bass Chords",
+  "study": "z3401",
+  "bpm": 174,
+  "source_audio": "preview/deep-drum-and-bass-chords-simple-synth-preview.mp3",
+  "source_audio_sha256": "459b3b5174ba0721f6c3c6642d4cd6bc3f5115a94067a5a8fe66fc6235b1f5f8",
+  "source_midi": "midi/z3401-deep-drum-and-bass-chords-opening/z3401-deep-drum-and-bass-chords-opening-combined.mid",
+  "source_midi_sha256": "488f56b08a6ce9b545efad0d63805de589cb73981118e36c8f0397ed7e5334cf",
+  "source_events": "catalog/note-events.csv",
+  "source_events_sha256": "71a4e30ca59bd91ea3ead1c000edcea19236549bbf18e71e6055d7849d4b13b7",
+  "art_source_file": "art/hero.jpg",
+  "art_source_sha256": "40abc5d662fbfce17760d20ee1e9cb8ff650b59f8676069cf4712a0a81a5b788",
+  "excerpt_start_seconds": 0,
+  "duration_seconds": 18.0,
+  "video": "film/preview.mp4",
+  "video_sha256": "615ce579f8762784ef956f977e95c4ce149c83f66af4705b92d957fe26d2d404",
+  "caption": "film/preview.vtt",
+  "resolution": "960x540",
+  "fps": 15,
+  "visualization": "Scrolling note events from the selected score over a moving cover image",
+  "disclosure": "preview, not master",
+  "limitations": [
+    "Simple-synth rendering, not a recorded performance.",
+    "No human listening review recorded."
+  ]
+}

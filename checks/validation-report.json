@@ -1,0 +1,189 @@
+{
+  "status": "PASS",
+  "run_time_utc": "2026-11-05T19:58:09.385795+00:00",
+  "tool": "validate_release.py with Python 3.14.0",
+  "files_checked": 28,
+  "errors": [],
+  "warnings": [],
+  "midi_files": [
+    {
+      "path": "midi/z3401-deep-drum-and-bass-chords-opening/chord_pulse.mid",
+      "bytes": 1257,
+      "sha256": "fb5527bd42aaa77b8bf846ffc094df5826e3791eecc4b23d6dba20dc79172bd1",
+      "errors": []
+    },
+    {
+      "path": "midi/z3401-deep-drum-and-bass-chords-opening/counter_texture.mid",
+      "bytes": 134,
+      "sha256": "ec525046a9342509762a7a6aec5bb74b7531e4c3a5ff16b91b9e00e2f4567391",
+      "errors": []
+    },
+    {
+      "path": "midi/z3401-deep-drum-and-bass-chords-opening/drums.mid",
+      "bytes": 2642,
+      "sha256": "ee9be00cc537c55f184ce50be820f6ee6a3d8abc06d43424b4db44b86d946266",
+      "errors": []
+    },
+    {
+      "path": "midi/z3401-deep-drum-and-bass-chords-opening/principal_motif.mid",
+      "bytes": 816,
+      "sha256": "ace473d7d1ecea980a94439e5eb515c3e48275cf1dd204beabc0982b7a9aa355",
+      "errors": []
+    },
+    {
+      "path": "midi/z3401-deep-drum-and-bass-chords-opening/sub_bass.mid",
+      "bytes": 821,
+      "sha256": "767b10990949edfa860c4a8db187dbf68d2de94456c9313e7856c52b438c1387",
+      "errors": []
+    },
+    {
+      "path": "midi/z3401-deep-drum-and-bass-chords-opening/vocal_like_synth.mid",
+      "bytes": 104,
+      "sha256": "ae4be793922351446e4697b4d91803fb07adbb336aef8e54c16e60902fd6d1e2",
+      "errors": []
+    },
+    {
+      "path": "midi/z3401-deep-drum-and-bass-chords-opening/z3401-deep-drum-and-bass-chords-opening-combined.mid",
+      "bytes": 5694,
+      "sha256": "488f56b08a6ce9b545efad0d63805de589cb73981118e36c8f0397ed7e5334cf",
+      "errors": []
+    },
+    {
+      "path": "midi/z3402-deep-drum-and-bass-chords-variation/chord_pulse.mid",
+      "bytes": 1257,
+      "sha256": "d5ec15af582a9d739b7f613afff70da2794e4fe3aae2b3d7910e21f84babd56c",
+      "errors": []
+    },
+    {
+      "path": "midi/z3402-deep-drum-and-bass-chords-variation/counter_texture.mid",
+      "bytes": 134,
+      "sha256": "ac65c88bbc407b3d5b1a8269ef1d1cdf5f3d339718b4f76535ad130901f34789",
+      "errors": []
+    },
+    {
+      "path": "midi/z3402-deep-drum-and-bass-chords-variation/drums.mid",
+      "bytes": 2642,
+      "sha256": "ee9be00cc537c55f184ce50be820f6ee6a3d8abc06d43424b4db44b86d946266",
+      "errors": []
+    },
+    {
+      "path": "midi/z3402-deep-drum-and-bass-chords-variation/principal_motif.mid",
+      "bytes": 815,
+      "sha256": "3ce20006b9d267ae5bcdd0cc5079062aea1574e1d42f4b84e1ecc8d59fbf0e8b",
+      "errors": []
+    },
+    {
+      "path": "midi/z3402-deep-drum-and-bass-chords-variation/sub_bass.mid",
+      "bytes": 821,
+      "sha256": "3d50e6503cbbc0fe516522aa84c5d657d71a693251a625faa12b38f631dd3318",
+      "errors": []
+    },
+    {
+      "path": "midi/z3402-deep-drum-and-bass-chords-variation/vocal_like_synth.mid",
+      "bytes": 104,
+      "sha256": "ad9d09559b1172f443a53594af6c1acd5bd4a1953e8905b067878bb8645f7ec8",
+      "errors": []
+    },
+    {
+      "path": "midi/z3402-deep-drum-and-bass-chords-variation/z3402-deep-drum-and-bass-chords-variation-combined.mid",
+      "bytes": 5693,
+      "sha256": "20e58c76205f2d11073e909a67bfe59cb589dc9a1e9d97708f440d5b5eeb3f9d",
+      "errors": []
+    },
+    {
+      "path": "midi/z3403-deep-drum-and-bass-chords-contrast/chord_pulse.mid",
+      "bytes": 1257,
+      "sha256": "c35dbd416bf6e20350a515e6b3be91edd960e8a1be3e0828e537f74f48c6b8e5",
+      "errors": []
+    },
+    {
+      "path": "midi/z3403-deep-drum-and-bass-chords-contrast/counter_texture.mid",
+      "bytes": 134,
+      "sha256": "ceb8b6affb66c92413ed3c7a8fa879a91c01465d59cfe7e832ecd1f260086a46",
+      "errors": []
+    },
+    {
+      "path": "midi/z3403-deep-drum-and-bass-chords-contrast/drums.mid",
+      "bytes": 2642,
+      "sha256": "ee9be00cc537c55f184ce50be820f6ee6a3d8abc06d43424b4db44b86d946266",
+      "errors": []
+    },
+    {
+      "path": "midi/z3403-deep-drum-and-bass-chords-contrast/principal_motif.mid",
+      "bytes": 781,
+      "sha256": "bbac9f95b1df9cff258c02ce73dd9966f46a0e5c3fe60c4e5e1fc8fa74212540",
+      "errors": []
+    },
+    {
+      "path": "midi/z3403-deep-drum-and-bass-chords-contrast/sub_bass.mid",
+      "bytes": 821,
+      "sha256": "98f870f06a3b15994d7f32e5eb269e565df5c50da779146fa8e8dc772aa6a829",
+      "errors": []
+    },
+    {
+      "path": "midi/z3403-deep-drum-and-bass-chords-contrast/vocal_like_synth.mid",
+      "bytes": 104,
+      "sha256": "5f542951361cb18664c9a36b290f2e4c46039c6eca42ba35d9f54b85e947797b",
+      "errors": []
+    },
+    {
+      "path": "midi/z3403-deep-drum-and-bass-chords-contrast/z3403-deep-drum-and-bass-chords-contrast-combined.mid",
+      "bytes": 5659,
+      "sha256": "6cf86e30069ae5e2c26f23adf7285bf386dfe2e717b01a11d311096a00364c37",
+      "errors": []
+    },
+    {
+      "path": "midi/z3404-deep-drum-and-bass-chords-return/chord_pulse.mid",
+      "bytes": 1257,
+      "sha256": "1800edcaa8afb32bd0993f0f65a96b10c3d2364a2be3d497eae646d56d8439c2",
+      "errors": []
+    },
+    {
+      "path": "midi/z3404-deep-drum-and-bass-chords-return/counter_texture.mid",
+      "bytes": 134,
+      "sha256": "ecb34fefe64ef9b6183cce00b482b3cc96af35b2073e9e28fd835924a915fdb1",
+      "errors": []
+    },
+    {
+      "path": "midi/z3404-deep-drum-and-bass-chords-return/drums.mid",
+      "bytes": 2642,
+      "sha256": "ee9be00cc537c55f184ce50be820f6ee6a3d8abc06d43424b4db44b86d946266",
+      "errors": []
+    },
+    {
+      "path": "midi/z3404-deep-drum-and-bass-chords-return/principal_motif.mid",
+      "bytes": 781,
+      "sha256": "19d116ca9f50f5bc2ee6d0aa406c6f645ffa56ad4dc99a9f1b14e01f30cb41f6",
+      "errors": []
+    },
+    {
+      "path": "midi/z3404-deep-drum-and-bass-chords-return/sub_bass.mid",
+      "bytes": 821,
+      "sha256": "2d35059099a48f7c7d22e29860ee5e74ef5811d148b510b32d6f45090c3da445",
+      "errors": []
+    },
+    {
+      "path": "midi/z3404-deep-drum-and-bass-chords-return/vocal_like_synth.mid",
+      "bytes": 104,
+      "sha256": "f2ba2e3a13160810c20845aa5269a801598bd9254732b861bbdfb2cb80069acb",
+      "errors": []
+    },
+    {
+      "path": "midi/z3404-deep-drum-and-bass-chords-return/z3404-deep-drum-and-bass-chords-return-combined.mid",
+      "bytes": 5659,
+      "sha256": "9c7685832d7204087c47dc116fa10dbe3762d2785490379191d59856606a4cdf",
+      "errors": []
+    }
+  ],
+  "duplicate_review": [],
+  "negative_control": {
+    "path": "checks/fixtures/invalid-same-pitch-overlap.mid",
+    "expected_result": "rejected for same-pitch overlap",
+    "passed": true
+  },
+  "limitations": [
+    "Automated technical validation only.",
+    "Nobody auditioned these files.",
+    "Duplicate-motif review is bounded and not exhaustive copyright clearance."
+  ]
+}
