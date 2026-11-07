@@ -198,8 +198,8 @@
     },
     {
       "path": "downloads/deep-drum-and-bass-chords-midi.zip",
-      "bytes": 32564,
-      "sha256": "b1de3254229d03c316148737bf69e6cd4591dd3dc41ca1f78169ce25ca9902be"
+      "bytes": 33551,
+      "sha256": "6d1e6889ced198df4af1743f6f2d6bdb307b1a9f96b8a424528a71fb8757f190"
     },
     {
       "path": "film/motion-note-roll.png",
@@ -233,8 +233,8 @@
     },
     {
       "path": "index.html",
-      "bytes": 10044,
-      "sha256": "a1f55a9a37ea57c7ec9514eba3f4f373eee64784594cb345f8115ae294aeb702"
+      "bytes": 10234,
+      "sha256": "60b6b719284665d9ecda431def54534202a2613279e3296f80886c9c9df1eed2"
     },
     {
       "path": "midi/z3401-deep-drum-and-bass-chords-opening/chord_pulse.mid",
@@ -377,6 +377,11 @@
       "sha256": "9c7685832d7204087c47dc116fa10dbe3762d2785490379191d59856606a4cdf"
     },
     {
+      "path": "MIDI-BUYER-LICENSE-v1.0.txt",
+      "bytes": 1652,
+      "sha256": "1111ca6dd4ca4ff4163f199fae341ff54ca3715acc3cf19ca332f2f6e58c36c9"
+    },
+    {
       "path": "preview/deep-drum-and-bass-chords-simple-synth-preview.mp3",
       "bytes": 1072736,
       "sha256": "459b3b5174ba0721f6c3c6642d4cd6bc3f5115a94067a5a8fe66fc6235b1f5f8"
@@ -388,8 +393,8 @@
     },
     {
       "path": "README.md",
-      "bytes": 4001,
-      "sha256": "76d493d7a3ee308dc78e61af7dd266f9e74a48f70eb557977be8fed531f9540a"
+      "bytes": 4116,
+      "sha256": "f93950d540b813f091f92c78c792aa481f8dbab81be3983268c7335424e35264"
     },
     {
       "path": "social/instagram/caption.txt",
